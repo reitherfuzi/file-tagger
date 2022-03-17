@@ -19,7 +19,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/reitherfuzi/file-tagger.git</connection>
 		<developerConnection>scm:git:ssh://github.com:reitherfuzi/file-tagger.git</developerConnection>
-		<url>https://github.com/reitherfuzi/file-tagger/tree/main</url>
+		<url>https://github.com/reitherfuzi/file-tagger/tree/master</url>
 	</scm>
 
 	<!-- Set the properties for this maven-project -->
